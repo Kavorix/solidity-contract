@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "nft contracts for NFT marketplace prototype",
   "main": "index.js",
-  "author": "Silvio Paganini <silvio@fluuu.id>",
+  "author": "kavorix",
   "license": "MIT",
   "private": true,
   "dependencies": {
